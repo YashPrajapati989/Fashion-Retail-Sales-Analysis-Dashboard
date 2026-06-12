@@ -1,5 +1,9 @@
 # 📊 Fashion Retail Sales Analysis Dashboard
 
+## 📷 Dashboard Preview
+
+![Fashion Retail Sales Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 
 This project analyzes fashion retail transactions using **Microsoft Excel** to uncover valuable business insights related to sales performance, product demand, customer satisfaction, and payment preferences. The objective was to transform raw retail transaction data into an interactive and visually appealing dashboard that supports data-driven decision-making.
@@ -143,13 +147,6 @@ The dashboard highlights key retail performance metrics and provides insights in
 - ETL Process
 - Dashboard Design
 - Data Visualization
-
----
-
-## 📷 Dashboard Preview
-
-![Fashion Retail Sales Dashboard](dashboard.png)
-
 
 ---
 
