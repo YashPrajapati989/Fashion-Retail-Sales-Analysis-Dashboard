@@ -148,10 +148,8 @@ The dashboard highlights key retail performance metrics and provides insights in
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot inside the `Images` folder and update the path below.
-
 ```markdown
-![Fashion Retail Dashboard](Images/Dashboard.png)
+![Fashion Retail Dashboard](Fashion_Retail_Sales/dashboard.png)
 ```
 
 ---
