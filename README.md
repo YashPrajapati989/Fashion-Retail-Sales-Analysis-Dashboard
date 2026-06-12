@@ -2,7 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-![Fashion Retail Sales Dashboard](dashboard.png)
+![Fashion Retail Sales Dashboard](Fashion_Retail_Sales/dashboard.png)
 
 ## 📌 Project Overview
 
