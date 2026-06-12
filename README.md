@@ -146,9 +146,9 @@ The dashboard highlights key retail performance metrics and provides insights in
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-![Fashion_Retail_Sales](dashboard.png)
+![Fashion Retail Sales Dashboard](dashboard.png)
 
 
 ---
